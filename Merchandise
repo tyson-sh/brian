@@ -1,0 +1,1167 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Merchandise</title>
+<meta name="Microsoft Theme" content="aftrnoon 1111, default">
+<script language="JavaScript">
+<!--
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+</head>
+
+<body onload="FP_preloadImgs(/*url*/'../BUTTONS/button4F.gif', /*url*/'../BUTTONS/button50.gif', /*url*/'../BUTTONS/button55.gif', /*url*/'../BUTTONS/button56.gif', /*url*/'../BUTTONS/button58.gif', /*url*/'../BUTTONS/button59.gif', /*url*/'../BUTTONS/button5B.gif', /*url*/'../BUTTONS/button5C.gif', /*url*/'../BUTTONS/button5E.gif', /*url*/'../BUTTONS/button5F.gif', /*url*/'../BUTTONS/button61.gif', /*url*/'../BUTTONS/button62.gif', /*url*/'../BUTTONS/button64.gif', /*url*/'../BUTTONS/button65.gif', /*url*/'../BUTTONS/button67.gif', /*url*/'../BUTTONS/button68.gif')">
+
+<table border="0" cellpadding="0" cellspacing="0" width="955" height="5780">
+	<!-- MSTableType="layout" -->
+	<tr>
+		<td valign="top">
+		<!-- MSCellType="DecArea" -->
+		&nbsp;</td>
+		<td valign="top" height="183">
+		<!-- MSCellType="ContentHead" -->
+		<img border="0" src="../Images%201/BHBIG%20c%20brown%20transparent%20white.gif" width="520" height="183"></td>
+	</tr>
+	<tr>
+		<td valign="top" width="165">
+		<!-- MSCellType="NavBody" -->
+		<a href="index.htm">
+		<img border="0" id="img10" src="../BUTTONS/button4E.gif" height="26" width="130" alt="HOME" onmouseover="FP_swapImg(1,0,/*id*/'img10',/*url*/'../BUTTONS/button4F.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img10',/*url*/'../BUTTONS/button4E.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img10',/*url*/'../BUTTONS/button50.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img10',/*url*/'../BUTTONS/button4F.gif')" fp-style="fp-btn: Embossed Capsule 2; fp-font: Arial; fp-font-color-hover: #008000; fp-transparent: 1" fp-title="HOME"></a><a href="Square%20Dancing"><img border="0" id="img12" src="../BUTTONS/button54.gif" height="26" width="130" alt="SQUARE DANCING" onmouseover="FP_swapImg(1,0,/*id*/'img12',/*url*/'../BUTTONS/button55.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img12',/*url*/'../BUTTONS/button54.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img12',/*url*/'../BUTTONS/button56.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img12',/*url*/'../BUTTONS/button55.gif')" fp-style="fp-btn: Embossed Capsule 2; fp-font: Arial; fp-font-color-hover: #008000; fp-transparent: 1" fp-title="SQUARE DANCING"></a><a href="Round%20Dancing"><img border="0" id="img13" src="../BUTTONS/button57.gif" height="26" width="130" alt="ROUND DANCING" onmouseover="FP_swapImg(1,0,/*id*/'img13',/*url*/'../BUTTONS/button58.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img13',/*url*/'../BUTTONS/button57.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img13',/*url*/'../BUTTONS/button59.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img13',/*url*/'../BUTTONS/button58.gif')" fp-style="fp-btn: Embossed Capsule 2; fp-font: Arial; fp-font-color-hover: #008000; fp-transparent: 1" fp-title="ROUND DANCING"></a><a href="Clogging"><img border="0" id="img14" src="../BUTTONS/button5A.gif" height="26" width="130" alt="CLOGGING" onmouseover="FP_swapImg(1,0,/*id*/'img14',/*url*/'../BUTTONS/button5B.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img14',/*url*/'../BUTTONS/button5A.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img14',/*url*/'../BUTTONS/button5C.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img14',/*url*/'../BUTTONS/button5B.gif')" fp-style="fp-btn: Embossed Capsule 2; fp-font: Arial; fp-font-color-hover: #008000; fp-transparent: 1" fp-title="CLOGGING"></a><a href="Merchandise"><img border="0" id="img15" src="../BUTTONS/button5D.gif" height="26" width="130" alt="MERCHANDISE" onmouseover="FP_swapImg(1,0,/*id*/'img15',/*url*/'../BUTTONS/button5E.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img15',/*url*/'../BUTTONS/button5D.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img15',/*url*/'../BUTTONS/button5F.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img15',/*url*/'../BUTTONS/button5E.gif')" fp-style="fp-btn: Embossed Capsule 2; fp-font: Arial; fp-font-color-hover: #008000; fp-transparent: 1" fp-title="MERCHANDISE"></a><a href="Itinerary.htm"><img border="0" id="img16" src="../BUTTONS/button60.gif" height="26" width="130" alt="ITINERARY" onmouseover="FP_swapImg(1,0,/*id*/'img16',/*url*/'../BUTTONS/button61.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img16',/*url*/'../BUTTONS/button60.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img16',/*url*/'../BUTTONS/button62.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img16',/*url*/'../BUTTONS/button61.gif')" fp-style="fp-btn: Embossed Capsule 2; fp-font: Arial; fp-font-color-hover: #008000; fp-transparent: 1" fp-title="ITINERARY"></a><a href="Gallery.htm"><img border="0" id="img17" src="../BUTTONS/button63.gif" height="26" width="130" alt="GALLERY" onmouseover="FP_swapImg(1,0,/*id*/'img17',/*url*/'../BUTTONS/button64.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img17',/*url*/'../BUTTONS/button63.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img17',/*url*/'../BUTTONS/button65.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img17',/*url*/'../BUTTONS/button64.gif')" fp-style="fp-btn: Embossed Capsule 2; fp-font-color-hover: #008000; fp-transparent: 1" fp-title="GALLERY"></a><img border="0" id="img18" src="../BUTTONS/button66.gif" height="26" width="130" alt="CONTACT US" onmouseover="FP_swapImg(1,0,/*id*/'img18',/*url*/'../BUTTONS/button67.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img18',/*url*/'../BUTTONS/button66.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img18',/*url*/'../BUTTONS/button68.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img18',/*url*/'../BUTTONS/button67.gif')" fp-style="fp-btn: Embossed Capsule 2; fp-font: Arial; fp-font-color-hover: #008000; fp-transparent: 1" fp-title="CONTACT US"></td>
+		<td valign="top" height="5597" width="790">
+		<!-- MSCellType="ContentBody" -->
+		<p align="center">
+		<a name="Top"></a>Square Dancing CD's with calls by <b>Brian Hotchkies</b></p>
+		<p align="center">Clogging CD's with 
+		cues by <b>Leanne Nicholson</b></p>
+		<p align="center">Round Dancing CD's with cues by <b>John Stallard</b></p>
+		<table border="1" width="100%" id="table2">
+			<tr>
+				<td width="122">&nbsp;</td>
+				<td width="88"><b>Number of CD's</b></td>
+				<td><b>Price</b></td>
+			</tr>
+			<tr>
+				<td width="122">&nbsp;</td>
+				<td width="88"><font color="#0000FF">1.............</font></td>
+				<td><font color="#0000FF">$15.00</font></td>
+			</tr>
+			<tr>
+				<td width="122">&nbsp;</td>
+				<td width="88"><font color="#FF0000">2.............</font></td>
+				<td><font color="#FF0000">$30.00</font></td>
+			</tr>
+			<tr>
+				<td width="122">&nbsp;</td>
+				<td width="88"><font color="#F99B00">3.............</font></td>
+				<td><font color="#F99B00">$40.00</font></td>
+			</tr>
+			<tr>
+				<td width="122">&nbsp;</td>
+				<td width="88"><font color="#33CC33">4.............</font></td>
+				<td><font color="#33CC33">$50.00</font></td>
+			</tr>
+			<tr>
+				<td width="122">&nbsp;</td>
+				<td width="88"><font color="#CC33FF">5.............</font></td>
+				<td><font color="#CC33FF">$60.00</font></td>
+			</tr>
+			<tr>
+				<td width="122">&nbsp;</td>
+				<td width="88">&nbsp;</td>
+				<td><font color="#33CCFF">+ $4.00 Postage and Handling</font></td>
+			</tr>
+		</table>
+		<p>To order any of these CD's, please send me an
+		<a href="mailto:bbarh@hotmail.com?subject=CD orders">email</a> with the 
+		serial numbers of the CDs you wish to purchase (eg BHCD-1004, LNCD-103), 
+		your full name, address and contact phone number.</p>
+		<p>Payments can be made by cheque, money order or bank transfer to 
+		########.</p>
+		<table border="1" width="100%" id="table1">
+			<tr>
+				<td width="45" align="center">&nbsp;</td>
+				<td width="127" align="center"><font color="#FFFFFF">
+				<span style="font-weight: 700; background-color: #0000FF">CD Cover and Serial Number</span></font></td>
+				<td align="center">
+				<span style="font-weight: 700; background-color: #FF0000">
+				<font size="5">Song List and Details</font></span></td>
+				<td width="4" align="center">
+				<span style="font-weight: 700; background-color: #00FF00">
+				<font size="5">Price</font></span></td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1013.JPG" width="91" height="91"><p><b>
+				<span style="font-size: 12.0pt; font-family: Tahoma; color: #999999">
+				BHCD-1013</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="border: medium none; padding: 0cm">
+				<span style="letter-spacing: 1pt"><font size="4">
+				<span style="font-family: Arial; font-weight:700">Easy Elementary Square 
+					Dances #1</span></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: left; border: medium none; padding: 0cm">
+				<b><span style="font-family: Arial; letter-spacing: 1.0pt">
+				<font size="1">Very easy Basic dances – suitable for 
+					learners</font></span></b></p>
+				<p class="MsoNormal" align="center" style="text-align: left; border: medium none; padding: 0cm">
+				<span style="font-family: Arial; color: #333333"><font size="1">Bonanza, Oh&nbsp;Johnny, I&nbsp;Don’t&nbsp;Know&nbsp;Why, 
+					Robert&nbsp;E.&nbsp;Lee, Doin’&nbsp;What&nbsp;Comes&nbsp;Naturally, Something&nbsp;Stupid, 
+					Queen’s&nbsp;Quadrille, Grandma’s&nbsp;Feather&nbsp;Bed, Wheels, 
+					We&nbsp;Got&nbsp;Love, Davy&nbsp;Crockett, Little&nbsp;Red&nbsp;Caboose, 
+					Me&nbsp;&amp;&nbsp;My&nbsp;Shadow, Molly&nbsp;Malone, Everybody&nbsp;Loves&nbsp;A&nbsp;Lover, 
+					Charlie’s&nbsp;Polka, Waiting&nbsp;For&nbsp;A&nbsp;Train, Linda&nbsp;Sue, 
+					and&nbsp;2&nbsp;Hoedowns.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1021.JPG" width="91" height="90"><p><b>
+				<span style="font-size: 12.0pt; font-family: Tahoma; color: #999999; background: white">
+				BHCD-1021</span></b></td>
+				<td>
+				<p align="center">&nbsp;<font size="4"><span style="background-color: #FFFF00; font-weight:700">Easy 
+				Elementary Square Dances #2</span></font></p>
+				<p class="MsoNormal" align="center" style="text-align: left; background: white">
+				<b><span style="font-family: Arial; letter-spacing: 1.0pt">
+				<font size="1">The second in the series of very easy Basic 
+				dances – suitable for learners</font></span></b></p>
+				<p class="MsoNormal" style="text-align: left; background: white">
+				<span style="font-family: Arial; color: #333333"><font size="1">
+				We&nbsp;Shall&nbsp;Not&nbsp;Be&nbsp;Moved, Great&nbsp;Afternoon, 
+				Trail&nbsp;Of&nbsp;The&nbsp;Lonesome&nbsp;Pine, Road&nbsp;To&nbsp;Gundagai, Do&nbsp;Run&nbsp;Run, 
+				Catch&nbsp;A&nbsp;Falling&nbsp;Star, Knee&nbsp;Deep, New&nbsp;York&nbsp;New&nbsp;York, 
+				Rhythm&nbsp;Of&nbsp;My&nbsp;Heart, Ma&nbsp;She’s&nbsp;Making&nbsp;Eyes&nbsp;At&nbsp;Me, 
+				I&nbsp;Love&nbsp;You&nbsp;Because,&nbsp;&nbsp; Pretty&nbsp;Woman,&nbsp;&nbsp; Oh&nbsp;Lonesome&nbsp;Me,&nbsp;&nbsp; 
+				Is&nbsp;You&nbsp;Is,&nbsp;&nbsp; Pickle&nbsp;Up&nbsp;A&nbsp;Doodle,&nbsp; &nbsp;and&nbsp;&nbsp; 5&nbsp;Hoedowns.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1004.JPG" width="91" height="90"><p>
+				<b><span style="font-family:Tahoma;color:#999999">BHCD-1004</span></b></td>
+				<td>
+				<p class="MsoNormal" style="text-align: center; border: medium none; padding: 0cm">
+				<span style="letter-spacing: 0.4pt">
+				<font size="4" color="#FF0000"><b>
+				<span style="font-family: Arial">Most Requested #1</span></b></font></span></p>
+				<p class="MsoNormal" style="text-align: justify; border: medium none; padding: 0cm">
+				<b><span style="font-family: Arial; letter-spacing: .4pt">
+				<font size="1">A selection of frequently requested singing call 
+				tunes with interesting Mainstream choreography</font></span></b></p>
+				<p class="MsoNormal" style="text-align: left; border: medium none; padding: 0cm">
+				<font face="Arial" size="1">
+				<span style="color: #333333; letter-spacing: .1pt">Rockin</span></font><font face="Arial" size="1">’&nbsp;In&nbsp;Rosalie’s&nbsp;Boat, 
+				First&nbsp;Thing&nbsp;Every&nbsp;Morning, Moody Blue,I’ll&nbsp;Get&nbsp;Over&nbsp;You, 
+				Fond&nbsp;Affection, The&nbsp;Devil&nbsp;Went&nbsp;Down&nbsp;To&nbsp;Georgia, 
+				Amarillo&nbsp;By&nbsp;Morning, Boogie&nbsp;Grass&nbsp;Band, 
+				Heartbeat&nbsp;In&nbsp;The&nbsp;Darkness, Summer&nbsp;Sounds, 
+				Somewhere&nbsp;Over&nbsp;The&nbsp;Rainbow, Ghost&nbsp;Riders, 
+				The&nbsp;Grande&nbsp;Colonel&nbsp;Spin, 
+				Sexy&nbsp;Ole’&nbsp;Lady,It’s&nbsp;A&nbsp;Sin&nbsp;To&nbsp;Tell&nbsp;A&nbsp;Lie, 
+				Mississippi&nbsp;Squirrel&nbsp;Revival, Everybody&nbsp;Loves&nbsp;A&nbsp;Lover, 
+				Mickey&nbsp;Mouse&nbsp;Club&nbsp;March, Wooden&nbsp;Heart,&nbsp;&nbsp; All&nbsp;That&nbsp;Jazz.</font></p></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45" height="160">&nbsp;</td>
+				<td width="127" height="160">
+				<img border="0" src="bh1008.JPG" width="91" height="91"><p class="MsoNormal" style="text-align: justify; background: white">
+				<b><span style="font-family:Tahoma;color:#999999">BHCD-1008</span></b></td>
+				<td height="160">
+				<p class="MsoNormal" align="center" style="text-align: center; border: medium none; padding: 0cm;>
+				<span style="letter-spacing: 0.4pt">
+				<font size="4" color="#0000FF"><b>
+				<span style="font-family: Arial">Most Requested #2</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: left; border: medium none; padding: 0cm;>
+				<b><span style="font-family: Arial"><font face="Arial"><font size="1">Fourth in the 
+				series of frequently requested singing call tunes with 
+				interesting Mainstream choreography</font><span style="color: #333333; letter-spacing: .5pt"><font size="1"> 
+				Featuring two tracks of “Progressive Squares” – for four&nbsp; sets</font></span></span></b></font></p>
+				<p class="MsoNormal" style="text-align: left; border: medium none; padding: 0cm; >
+				<span style="font-family: Arial; color: #333333; letter-spacing: .1pt">
+				<font face="Arial">
+				<font size="1">Hello,&nbsp;Hello,&nbsp;Hello, Football&nbsp;Hero, 
+				One&nbsp;Promise&nbsp;Too&nbsp;Late, Who&nbsp;Were&nbsp;You&nbsp;With&nbsp;Last&nbsp;Night, 
+				Don’t&nbsp;Bring&nbsp;Lulu, Wizard&nbsp;On&nbsp;The&nbsp;Hill, I&nbsp;Like&nbsp;You, 
+				Wild&nbsp;About&nbsp;Honey, <i>Progressive&nbsp;Squares</i>:&nbsp;Patter&nbsp;&amp;&nbsp;Wings&nbsp;Of&nbsp;A&nbsp;Dove, 
+				Love&nbsp;Me&nbsp;Honey&nbsp;Do, May&nbsp;The&nbsp;Good&nbsp;Lord&nbsp;Bless&nbsp;&amp;&nbsp;Keep&nbsp;you, Volcano, 
+				Something&nbsp;About&nbsp;You&nbsp;Baby&nbsp;I&nbsp;Like, 
+				When&nbsp;Johnny&nbsp;Comes&nbsp;Marching&nbsp;Home, Your&nbsp;Lips&nbsp;Tell&nbsp;Me&nbsp;No,&nbsp;No, 
+				When&nbsp;You’re&nbsp;Smiling, Zippity&nbsp;Do&nbsp;Da, 
+				If&nbsp;I&nbsp;Said&nbsp;You&nbsp;Had&nbsp;A&nbsp;Beautiful&nbsp;Body.</font></span></font></p></td>
+				<td width="4" height="160">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1012.JPG" width="91" height="90"><p><b>
+				<span style="font-size: 12.0pt; font-family: Tahoma; color: #999999">
+				BHCD-1012</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="border: medium none; padding: 0cm">
+				<span style="letter-spacing: 1pt">
+				<font size="4" color="#00FF00"><b>
+				<span style="font-family: Arial">Most Requested #3</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: left; border: medium none; padding: 0cm">
+				<b>
+				<span style="font-family: Arial; color: #333333; letter-spacing: 1.0pt">
+				<font size="1">Featuring a 7 minute “Tandem formation” track 
+					- </font></span>
+				<span style="font-family: Arial; letter-spacing: .4pt">
+				<font size="1">A selection of frequently requested singing 
+					call tunes with interesting Mainstream choreography</font></span></b></p>
+				<p class="MsoNormal" style="text-align: left; border: medium none; padding: 0cm">
+				<span style="font-family: Arial; color: #333333"><font size="1">On&nbsp;&amp;&nbsp;On, New&nbsp;York&nbsp;New&nbsp;York, 
+					Pennsylvania&nbsp;Polka, Gonna&nbsp;Raise&nbsp;A&nbsp;Ruckus&nbsp;Tonight, 
+					Tennessee&nbsp;Six&nbsp;Strings, We’ve&nbsp;Got&nbsp;A&nbsp;Good&nbsp;Fire&nbsp;A&nbsp;Going, 
+					Hernando’s&nbsp;Hide&#8209;A&#8209;Way, Ain’t&nbsp;Misbehavin’, Nevertheless, 
+					Back&nbsp;To&nbsp;Donegal, Walking&nbsp;My&nbsp;Baby&nbsp;Back&nbsp;Home, 
+					Ragtime&nbsp;Cowboy&nbsp;Joe, Neutron&nbsp;Dance, 
+					Put&nbsp;On&nbsp;Your&nbsp;Old&nbsp;Gray&nbsp;Bonnet, Catch&nbsp;A&nbsp;Falling&nbsp;Star,&nbsp;&nbsp; 
+					Cunnamulla&nbsp;Fella,&nbsp;&nbsp; Anniversary&nbsp;Song,&nbsp; If&nbsp;It&nbsp;Ain’t&nbsp;Got&nbsp;That&nbsp;Swing,&nbsp;&nbsp; 
+					“Tandem”&nbsp;Hoedown. </font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1016.JPG" width="91" height="90"><p class="MsoNormal" style="text-align: justify">
+				<b>
+				<span style="font-family:Tahoma;color:#999999;
+letter-spacing:.1pt">BHCD-1016</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="text-align: center; border: medium none; padding: 0cm">
+				<span style="letter-spacing: 0.5pt"><font size="4"><b>
+				<span style="font-family: Arial; background-color: #FFFF00">Most Requested #4</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: center; border: medium none; padding: 0cm">
+				<b><span style="font-family: Arial; letter-spacing: .5pt">
+				<font size="1">This CD features easy, yet interesting M/S 
+					choreography, with frequently requested tunes.</font></span></b></p>
+				<p class="MsoNormal" style="text-align: left; border: medium none; padding: 0cm">
+				<font size="1">I’m&nbsp;Forever&nbsp;Blowing&nbsp;Bubbles, 
+					Washington&nbsp;Lee&nbsp;Swing, Manana, Red&nbsp;Roses&nbsp;For&nbsp;A&nbsp;Blue&nbsp;Lady, 
+					Good&nbsp;Friends, Cabaret, When&nbsp;Irish&nbsp;Eyes&nbsp;Are&nbsp;Smiling, 
+					New&nbsp;World&nbsp;In&nbsp;The&nbsp;Morning, What&nbsp;A&nbsp;Wonderful&nbsp;Way&nbsp;To&nbsp;Be&nbsp;Happy, 
+					It’s&nbsp;Four&nbsp;In&nbsp;The&nbsp;Morning, Do&nbsp;Run&nbsp;Run, Bare&nbsp;Necessities, 
+					Home&nbsp;On&nbsp;The&nbsp;Range, Hernando’s&nbsp;Hide&#8209;A&#8209;Way, 
+					One&nbsp;Promise&nbsp;Too&nbsp;Late,&nbsp;&nbsp; Chattanooga&nbsp;Choo&nbsp;Choo,&nbsp;&nbsp; Amapola,&nbsp;&nbsp; 
+					Cajun&nbsp;Moon,&nbsp;&nbsp; Knee&nbsp;Deep,&nbsp;&nbsp; Basin&nbsp;Street&nbsp;Blues.</font></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1020.JPG" width="91" height="90"><p><b>
+				<span style="font-size: 12.0pt; font-family: Tahoma; color: #999999; background: white">
+				BHCD-1020</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="text-align: center; background-image: none; background-repeat: repeat; background-attachment: scroll">
+				<font size="4" color="#8F1719"><b>
+				<span style="font-family: Arial">Most Requested #5</span></b></font></p>
+				<p class="MsoNormal" align="center" style="text-align: left; background: white">
+				<b><span style="font-family: Arial"><font size="1">Frequently 
+				requested singing call tunes, &amp; Patters </font></span></b>
+				<span style="font-family: Arial"><font size="1">(Hoedowns)</font></span><b><span style="font-family: Arial"><font size="1">, 
+				with interesting Mainstream choreography</font></span></b></p>
+				<p class="MsoNormal" align="center" style="text-align: left; background: white">
+				<span style="font-family: Arial; color: black"><font size="1">
+				Let’s&nbsp;Twist&nbsp;Again, Royal&nbsp;Telephone, New&nbsp;York&nbsp;New&nbsp;York, Draggin’&nbsp;The&nbsp;Bow&nbsp;(patter), 
+				Poor&nbsp;Little&nbsp;Robin, King&nbsp;Of&nbsp;The&nbsp;Road, Boogie&nbsp;Woogie&nbsp;Bugle&nbsp;Boy, 
+				I&nbsp;Love&nbsp;You&nbsp;Because, My&nbsp;Grandfather’s&nbsp;Clock, Taking&nbsp;It&nbsp;Easy, 
+				Around&nbsp;The&nbsp;World&nbsp;With&nbsp;Bill&nbsp;Bailey, 
+				Let’s&nbsp;Get&nbsp;It&nbsp;While&nbsp;The&nbsp;Getting’s&nbsp;Good, Popcorn&nbsp;(patter), 
+				Good&nbsp;Friends, Whoop&nbsp;Square&nbsp;It&nbsp;Is&nbsp;(patter), Green&nbsp;Green, 
+				Billy&nbsp;Does&nbsp;Your&nbsp;Bulldog&nbsp;Bite, Ice&nbsp;Cream&nbsp;Sodas&nbsp;&amp;&nbsp;Lollypops, 
+				Old&nbsp;Man&nbsp;River, &nbsp;&nbsp;&nbsp;Good&nbsp;Ole&nbsp;Country&nbsp;Song.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1003.JPG" width="91" height="90"><p class="MsoNormal" style="text-align: justify; background: white">
+				<b><span style="font-family:Tahoma;color:#999999">BHCD-1003</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="text-align: center; border: medium none; padding: 0cm">
+				<span style="letter-spacing: 0.5pt">
+				<font size="4" color="#CC00CC"><b>
+				<span style="font-family: Arial">An Evening At Tumbi Country 
+					with Brian Hotchkies #1</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: left; border: medium none; padding: 0cm">
+				<b><span style="font-family: Arial; letter-spacing: .5pt">
+				<font size="1">Recorded at “Tumbi Country” - a Mainstream 
+					club evening in Gosford, NSW, Australia</font></span></b><span style="font-family: Arial; letter-spacing: 1.0pt"><font size="1"> 
+					(Three tracks contain Plus choreography)</font></span></p>
+				<p class="MsoNormal" style="text-align: left; border: medium none; padding: 0cm">
+				<span style="font-family: Arial; color: #333333"><font size="1">Enjoy&nbsp;Yourself, Never&nbsp;Ending&nbsp;Song&nbsp;Of&nbsp;Love, 
+					Something&nbsp;Stupid, Cunnamulla&nbsp;Fella, Bare&nbsp;Necessities&nbsp;(Plus), 
+					Jingle&nbsp;Jangle&nbsp;Jingle&nbsp;(Plus), I&nbsp;Just&nbsp;Want&nbsp;To&nbsp;Dance&nbsp;With&nbsp;You, 
+					San&nbsp;Antonio&nbsp;Stroll, All&nbsp;That&nbsp;Jazz, Oh&nbsp;Susanna, 
+					Light&nbsp;The&nbsp;Candles,&nbsp; Blueberry&nbsp;Hill,&nbsp; Molly&nbsp;Malone,&nbsp; 
+					Forbidden&nbsp;Dance,&nbsp; Sold,&nbsp; &amp;&nbsp; 3&nbsp;Hoedowns&nbsp;(2&nbsp;M/S&nbsp;&amp;&nbsp;1&nbsp;Plus). &nbsp;</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1011.JPG" width="91" height="90"><p class="MsoNormal" style="text-align: justify">
+				<b>
+				<span style="font-family:Tahoma;color:#999999;
+letter-spacing:.1pt">BHCD-1011</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center">
+				<span style="letter-spacing: 0.5pt">
+				<font size="4" color="#33CC33">
+				<span style="font-family: Arial; font-weight: 700">An Evening At 
+				Tumbi Country with Brian Hotchkies #2</span></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: left"><b>
+				<span style="font-family: Arial; letter-spacing: .5pt">
+				<font size="1">Recorded at “Tumbi Country” - a Mainstream club 
+				evening in Gosford, NSW, Australia (</font></span><span style="font-family: Arial; letter-spacing: 1.0pt"><font size="1">Two 
+				tracks contain Plus choreography)</font></span></b></p>
+				<p class="MsoNormal" style="text-align: left">
+				<span style="font-family: Arial; color: #333333"><font size="1">
+				Taking&nbsp;It&nbsp;Easy, What’s&nbsp;Forever&nbsp;For, 
+				Some&nbsp;Broken&nbsp;Hearts&nbsp;Never&nbsp;Mend, Cocoanuts, 
+				Happy&nbsp;Times&nbsp;Are&nbsp;Here&nbsp;Again, Drinking&nbsp;Champagne, Chinatown, 
+				Dance&nbsp;With&nbsp;Me&nbsp;One&nbsp;More&nbsp;Time, Yankee&nbsp;Doodle&nbsp;Dandy, Oh&nbsp;Susanna, 
+				She&nbsp;Wears&nbsp;Red&nbsp;Feathers,&nbsp; Waterloo,&nbsp; Let&nbsp;Me&nbsp;Call&nbsp;You&nbsp;Sweetheart,&nbsp; 
+				Pencil&nbsp;Thin&nbsp;Moustache,&nbsp; and&nbsp; 5&nbsp;Hoedowns.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1015.JPG" width="91" height="91"><p class="MsoNormal" style="text-align: justify">
+				<b>
+				<span style="font-family:Tahoma;color:#999999;
+letter-spacing:.1pt">BHCD-1015</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="border: medium none; padding: 0cm">
+				<span style="letter-spacing: 0.5pt">
+				<font size="4" color="#8F1719"><b>
+				<span style="font-family: Arial">An Evening At Tumbi Country 
+					with Brian Hotchkies #3</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: left; border: medium none; padding: 0cm">
+				<b><span style="font-family: Arial; letter-spacing: .5pt">
+				<font size="1">The third Mainstream CD recorded <i>live</i> 
+					at Brian’s “Tumbi Country” square dance club (</font></span><span style="font-family: Arial; letter-spacing: 1.0pt"><font size="1">Three 
+					tracks contain Plus choreography)</font></span></b></p>
+				<p class="MsoNormal" style="text-align: left; border: medium none; padding: 0cm">
+				<span style="font-family: Arial"><font size="1">Bei&nbsp;Mier&nbsp;Bist</font></span><font size="1"><span style="font-family: Arial">&nbsp;Du&nbsp;Schoen, 
+					Indiana, I’m&nbsp;Just&nbsp;Wild&nbsp;About&nbsp;Harry, My&nbsp;Grandfather’s&nbsp;Clock, 
+					When&nbsp;You’re&nbsp;Smiling, Do&nbsp;What&nbsp;You&nbsp;Do&nbsp;Do&nbsp;Well, 
+					Give&nbsp;My&nbsp;Regards&nbsp;To&nbsp;Broadway, 
+					The&nbsp;Best&nbsp;Things&nbsp;In&nbsp;Life&nbsp;Are&nbsp;Free, Sheltering&nbsp;Palms, 
+					Summer&nbsp;Sounds, As&nbsp;Time&nbsp;Goes&nbsp;By, Four&nbsp;Leaf&nbsp;Clover, 
+					Pass&nbsp;Me&nbsp;By, If&nbsp;You&nbsp;Knew&nbsp;Susie, It’s&nbsp;A&nbsp;Sin&nbsp;To&nbsp;Tell&nbsp;A&nbsp;Lie, 
+					and&nbsp;4&nbsp;Hoedowns.&nbsp;&nbsp;</span></font><span style="font-size:11.0pt;font-family:Tahoma">&nbsp;&nbsp;&nbsp;
+					</span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1006.JPG" width="91" height="91"><p class="MsoNormal">
+				<b><span style="font-family:Tahoma;color:#999999">BHCD-1006</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center">
+				<font size="4" color="#FF0000"><b>
+				<span style="font-family: Arial">Kelly Country #1</span></b></font></p>
+				<p class="MsoNormal" align="center" style="text-align: left"><b>
+				<span style="font-family: Arial"><font size="1">From the popular
+				<i>Mainstream,</i> “Kelly Country”, Square Dance Festival, held 
+				annually at Benalla, Victoria</font></span></b></p>
+				<p class="MsoNormal" style="text-align: left">
+				<span style="font-family: Arial; color: #333333; letter-spacing: .1pt">
+				<font size="1">The&nbsp;Best&nbsp;Is&nbsp;Yet&nbsp;To&nbsp;Come, Crawdad&nbsp;Square, 
+				Hot&nbsp;Time&nbsp;In&nbsp;The&nbsp;Old&nbsp;Town&nbsp;Tonight, Unicorns, Goofy&nbsp;Square, 
+				Among&nbsp;My&nbsp;Souvenirs, England&nbsp;Swings, Bad&nbsp;Bad&nbsp;Leroy&nbsp;Brown, Gonna&nbsp;Have&nbsp;To&nbsp;Catch&nbsp;Me, 
+				Mister&nbsp;Bass&nbsp;Man, I&nbsp;Don’t&nbsp;Know&nbsp;A&nbsp;Thing&nbsp;About&nbsp;Love, I’m&nbsp;Gonna&nbsp;Knock&nbsp;On&nbsp;Your&nbsp;Door, 
+				May&nbsp;The&nbsp;Good&nbsp;Lord&nbsp;Bless&nbsp;&amp;&nbsp;Keep&nbsp;You, Daisy&nbsp;A&nbsp;Day,&nbsp;&nbsp;&nbsp; 
+				Out&nbsp;Behind&nbsp;The&nbsp;Barn,&nbsp;&nbsp;&nbsp; and&nbsp;&nbsp; 3&nbsp;Hoedowns.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1007.JPG" width="91" height="91"><p class="MsoNormal" style="text-align: justify">
+				<b>
+				<span style="font-family:Tahoma;color:#999999;
+letter-spacing:.1pt">BHCD-1007</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="border: medium none; padding: 0cm">
+				<span style="letter-spacing: 0.5pt">
+				<font size="4" color="#0000FF"><b>
+				<span style="font-family: Arial">Kelly Country #2</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: left; border: medium none; padding: 0cm">
+				<b><span style="font-family: Arial; letter-spacing: .5pt">
+				<font size="1">A second CD album recorded at the popular <i>
+				Mainstream,</i> “Kelly Country” Square Dance Festival</font></span></b></p>
+				<p class="MsoNormal" style="text-align: left; border: medium none; padding: 0cm">
+				<span style="font-family: Arial; color: #333333"><font size="1">
+				Hey&nbsp;Look&nbsp;Me&nbsp;Over, Give&nbsp;Me&nbsp;A&nbsp;Home&nbsp;Among&nbsp;The&nbsp;Gum&nbsp;Trees, 
+				When&nbsp;You&nbsp;Wish&nbsp;Upon&nbsp;A&nbsp;Star, Chime&nbsp;Bells, 
+				Diamonds&nbsp;Are&nbsp;A&nbsp;Girl’s&nbsp;Best&nbsp;Friend, Love&nbsp;Letters&nbsp;In&nbsp;The&nbsp;Sand, 
+				You’re&nbsp;A&nbsp;Grand&nbsp;Old&nbsp;Flag, I&nbsp;Don’t&nbsp;Know&nbsp;Why, Forbidden&nbsp;Dance, 
+				On&nbsp;Broadway, Waiting&nbsp;For&nbsp;A&nbsp;Train, 
+				With&nbsp;A&nbsp;Shillelagh&nbsp;Under&nbsp;Me&nbsp;Arm, Down&nbsp;On&nbsp;The&nbsp;Farm, 
+				Night&nbsp;Train&nbsp;To&nbsp;Memphis, Mountain&nbsp;Music, My&nbsp;Ding&#8209;A&#8209;Ling, 
+				Flowers&nbsp;On&nbsp;The&nbsp;Wall, It’s&nbsp;A&nbsp;Sin&nbsp;To&nbsp;Tell&nbsp;A&nbsp;Lie, and&nbsp;2&nbsp;Hoedowns.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1026.JPG" width="91" height="90"><p class="MsoNormal" style="text-align: justify">
+				<b>
+				<span style="font-family:Tahoma;color:#999999;
+letter-spacing:.1pt">BHCD-1026</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center">
+				<span style="letter-spacing: 0.5pt">
+				<font size="4" color="#00FF00"><b>
+				<span style="font-family: Arial">Kelly Country #3</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: left"><b>
+				<span style="font-family: Arial; letter-spacing: .5pt">
+				<font size="1">The third of the popular <i>Mainstream</i>, 
+				“Kelly Country” Square Dance Festival series</font></span></b></p>
+				<p class="MsoNormal" style="text-align: left">
+				<span style="font-family: Arial; color: #333333"><font size="1">
+				After&nbsp;The&nbsp;Lovin’, Enjoy&nbsp;Yourself, Down&nbsp;On&nbsp;The&nbsp;Corner, 
+				Mickey&nbsp;Mouse&nbsp;Club&nbsp;March, First&nbsp;Thing&nbsp;Every&nbsp;Morning, 
+				Drinking&nbsp;Champagne, Razz&#8209;A&#8209;Ma&#8209;Tazz, Don’t&nbsp;Bring&nbsp;Lulu, 
+				Dream&nbsp;Lover, Maybe&nbsp;It’s&nbsp;Because&nbsp;I’m&nbsp;A&nbsp;Londoner, 
+				Double&nbsp;Bogie&nbsp;Blues, &nbsp;&nbsp;and&nbsp;&nbsp; 6&nbsp;Hoedowns.</font></span></p>
+				</td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45" height="135">&nbsp;</td>
+				<td width="127" height="135">
+				<img border="0" src="bh1027.JPG" width="91" height="91"><p class="MsoNormal" style="text-align: justify">
+				<b>
+				<span style="font-family:Tahoma;color:#999999;
+letter-spacing:.1pt">BHCD-1027</span></b></td>
+				<td height="135">
+				<p class="MsoNormal" align="center" style="border: medium none; padding: 0cm">
+				<span style="letter-spacing: 0.5pt"><font size="4"><b>
+				<span style="font-family: Arial; background-color: #FFFF00">
+				Kelly Country #4</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: left; border: medium none; padding: 0cm">
+				<b><span style="font-family: Arial; letter-spacing: .5pt">
+				<font size="1">The fourth of the popular <i>Mainstream,</i> 
+				“Kelly Country” Square Dance Festival series</font></span></b></p>
+				<p class="MsoNormal" style="text-align: left; border: medium none; padding: 0cm">
+				<span style="font-family: Arial; color: #333333"><font size="1">
+				G’Day&nbsp;G’Day, Manana, Old&nbsp;Dogs,&nbsp;Children,&nbsp;&amp;&nbsp;Watermelon&nbsp;Wine, 
+				We&nbsp;Shall&nbsp;Not&nbsp;Be&nbsp;Moved, You&nbsp;Belong&nbsp;To&nbsp;Me, Pennsylvania&nbsp;Polka, 
+				Dear&nbsp;Old&nbsp;Donegal, Do&nbsp;Run&nbsp;Run, Walk&nbsp;In&nbsp;The&nbsp;Black&nbsp;Forest, 
+				Sadie&nbsp;The&nbsp;Cleaning&nbsp;Lady, Don’t&nbsp;Blame&nbsp;It&nbsp;All&nbsp;On&nbsp;Me,&nbsp;&nbsp;&nbsp; 
+				Amazing&nbsp;Grace,&nbsp;&nbsp;&nbsp; Knee&nbsp;Deep,&nbsp;&nbsp;&nbsp; and&nbsp;&nbsp;&nbsp; 6&nbsp;Hoedowns.</font></span></td>
+				<td width="4" height="135">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1017.JPG" width="91" height="90"><p class="MsoNormal" style="text-align: justify; background: white">
+				<b>
+				<span style="font-family:Tahoma;color:#999999;letter-spacing:.1pt">
+				BHCD-1017</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="border: medium none; padding: 0cm">
+				<span style="letter-spacing: 0.5pt">
+				<font size="4" color="#F99B00"><b>
+				<span style="font-family: Arial">The Wizard From Oz</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: left; border: medium none; padding: 0cm">
+				<b>
+				<span style="font-family: Arial; color: black; letter-spacing: .5pt">
+				<font size="1">Interesting Mainstream CD with calls by Brian</font></span></b></p>
+				<p class="MsoNormal" style="text-align: left; border: medium none; padding: 0cm">
+				<span style="font-family: Arial; color: #333333"><font size="1">
+				A&nbsp;Spoonful&nbsp;Of&nbsp;Sugar, Livin’&nbsp;Next&nbsp;Door&nbsp;To&nbsp;Alice, The&nbsp;High&nbsp;Road, 
+				Gypsy, Where&nbsp;The&nbsp;Red&nbsp;Red&nbsp;Roses&nbsp;Grow, Oblah&#8209;Di,&nbsp;Oblah&#8209;Da, 
+				Coward&nbsp;Of&nbsp;The&nbsp;County, Saturday&nbsp;Night, 
+				That&nbsp;Old&nbsp;Gang&nbsp;Of&nbsp;Mine&nbsp;(6&nbsp;Couple), Matilda, Texas&nbsp;Plains, 
+				I&nbsp;Love&nbsp;You&nbsp;More&nbsp;&amp;&nbsp;More&nbsp;Every&nbsp;Day, Kindly&nbsp;Keep&nbsp;It&nbsp;Country, 
+				Bye&nbsp;Bye&nbsp;Blackbird, My&nbsp;Pretty&nbsp;Girl, Goodbye&nbsp;My&nbsp;Lady&nbsp;Love,&nbsp;&nbsp; 
+				I&nbsp;Want&nbsp;To&nbsp;Be&nbsp;Happy,&nbsp;&nbsp; and&nbsp;&nbsp; 2 Hoedowns.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1009.JPG" width="91" height="89"><p class="MsoNormal" style="text-align: justify">
+				<b><span style="font-family:Tahoma;color:#999999">BHCD-1009</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="border: medium none; padding: 0cm">
+				<span style="letter-spacing: 0.5pt"><b>
+				<font size="4" color="#FF0000"><span style="font-family: Arial">
+				Christmas </span></font><span style="font-family: Arial">
+				<font size="4" color="#33CC33">Square Dances</font></span></b></span></p>
+				<p class="MsoNormal" align="center" style="text-align: left; border: medium none; padding: 0cm">
+				<b><span style="font-family: Arial; letter-spacing: .5pt">
+				<font size="1">20 Christmas Square Dances featuring interesting 
+				Mainstream choreography &amp; novelty figures</font></span></b></p>
+				<p class="MsoNormal" style="text-align: left; border: medium none; padding: 0cm">
+				<span style="font-family: Arial; color: #333333; letter-spacing: .1pt">
+				<font size="1">Jingle&nbsp;Bell&nbsp;Rock, Christmas&nbsp;Time’s&nbsp;A&nbsp;Coming, 
+				Christmas&nbsp;Medley, Unto&nbsp;Us&nbsp;This&nbsp;Holy&nbsp;Night, Feliz&nbsp;Navidad, 
+				I&nbsp;Want&nbsp;A&nbsp;Hippopotamus&nbsp;For&nbsp;Christmas, 
+				It’s&nbsp;Beginning&nbsp;To&nbsp;Look&nbsp;A&nbsp;Lot&nbsp;Like&nbsp;Christmas, Six&nbsp;White&nbsp;Boomers, 
+				Grandma&nbsp;Got&nbsp;Run&nbsp;Over&nbsp;By&nbsp;A&nbsp;Reindeer, 
+				I&nbsp;Saw&nbsp;Mommy&nbsp;Kissing&nbsp;Santa&nbsp;Claus, Christmas&nbsp;Day, Let&nbsp;It&nbsp;Snow, 
+				Frosty&nbsp;The&nbsp;Snowman, Santa&nbsp;Claus&nbsp;Is&nbsp;Coming&nbsp;To&nbsp;Town, 
+				Winter&nbsp;Wonderland, Hawaiian&nbsp;Christmas&nbsp;Carol, 
+				I’ll&nbsp;Be&nbsp;Home&nbsp;With&nbsp;Bells&nbsp;On,&nbsp;&nbsp;&nbsp; White&nbsp;Christmas,&nbsp;&nbsp;&nbsp; 
+				Jingle&nbsp;Bells,&nbsp;&nbsp;&nbsp; and&nbsp; a&nbsp; Christmas Hoedown.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1005.JPG" width="91" height="91"><p class="MsoNormal" style="text-align: justify; background: white">
+				<b>
+				<span style="font-family: Tahoma; color: #999999; letter-spacing: .1pt">
+				BHCD-1005</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="text-align: center; background-image: none; background-repeat: repeat; background-attachment: scroll">
+				<span style="letter-spacing: 0.2pt">
+				<font size="4" color="#F99B00"><b>
+				<span style="font-family: Arial">
+				<span style="background-color: #FFFF00">Brian Hotchkies</span> 
+				calling with an Australian Flavour</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: center; background: white">
+				<b><span style="font-family: Arial; letter-spacing: .2pt">
+				<font size="1">Mainstream &amp; Plus Singing Calls, featuring five 
+				Australiana tunes, recorded at Brian’s club nights</font></span></b></p>
+				<p class="MsoNormal" style="text-align: justify; background: white">
+				<span style="font-family: Arial; color: #333333; letter-spacing: .1pt">
+				<font size="1">G’Day&nbsp;G’Day&nbsp;(Plus), Kimberley&nbsp;Moon&nbsp;(Plus), 
+				Music&nbsp;Is&nbsp;My&nbsp;Woman&nbsp;(Plus), Paddlin’&nbsp;Marilyn&nbsp;Home&nbsp;(Plus), 
+				If&nbsp;The&nbsp;Devil&nbsp;Danced&nbsp;In&nbsp;Empty&nbsp;Pockets&nbsp;(Plus), Gonna&nbsp;Raise&nbsp;A&nbsp;Ruckus&nbsp;(Plus), 
+				Road&nbsp;To&nbsp;Gundagai&nbsp;(Plus), Robert&nbsp;E.&nbsp;Lee&nbsp;(six&#8209;couple&nbsp;set)&nbsp;(Plus), 
+				If&nbsp;It&nbsp;Ain’t&nbsp;Got&nbsp;That&nbsp;Swing, Light&nbsp;In&nbsp;The&nbsp;Window, 
+				I’ve&nbsp;Got&nbsp;Rhythm, Six&nbsp;White&nbsp;Boomers,&nbsp;&nbsp; 
+				Home&nbsp;Among&nbsp;The&nbsp;Gum&nbsp;Trees,&nbsp;&nbsp; A&nbsp;Fool&nbsp;Such&nbsp;As&nbsp;I,&nbsp;&nbsp; and&nbsp; 
+				4&nbsp;Hoedowns&nbsp;(3&nbsp;Plus,&nbsp;1&nbsp;M/S).</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1014.JPG" width="91" height="90"><p class="MsoNormal" style="text-align: justify; background: white">
+				<b>
+				<span style="font-family:Tahoma;color:#999999;
+letter-spacing:.1pt">BHCD -1014</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="background-image: none; background-repeat: repeat; background-attachment: scroll">
+				<span style="letter-spacing: 0.5pt">
+				<font size="4" color="#33CC33"><b>
+				<span style="font-family: Arial; background-color: #FFFF00">Tie 
+				Me Kangaroo Down Sport</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: left; background: white">
+				<b><span style="font-family: Arial; letter-spacing: .5pt">
+				<font size="1">A collection of “Fun”, “Novelty” and 
+				“Traditional” Square Dance singing calls</font></span></b></p>
+				<p class="MsoNormal" style="text-align: left; background: white">
+				<span style="font-family: Arial; color: #333333; letter-spacing: .1pt">
+				<font size="1">Tie&nbsp;Me&nbsp;Kangaroo&nbsp;Down&nbsp;Sport, Music&nbsp;Box&nbsp;Dancer, 
+				Why&nbsp;Don’t&nbsp;You&nbsp;Love&nbsp;Me, Little&nbsp;Red&nbsp;Caboose, Baby&nbsp;Face, 
+				Banana&nbsp;Boat&nbsp;Song, Waltzing&nbsp;Matilda, Red&nbsp;Wing&nbsp;&#8209;&nbsp;“Dip&nbsp;N’&nbsp;Dive”, 
+				Camptown&nbsp;Races, Rosabella, Pussy&nbsp;Cat, 
+				“Caller’s&nbsp;Holiday”&nbsp;&#8209;&nbsp;The&nbsp;Entertainer, Waltz&nbsp;Across&nbsp;Texas, 
+				I&nbsp;Love&nbsp;You&nbsp;Because&nbsp;&#8209;&nbsp;“Row&nbsp;The&nbsp;Boat”, Oklahoma, 
+				Seven&nbsp;Spanish&nbsp;Angels,&nbsp;&nbsp; Makin’&nbsp;Whoopee,&nbsp;&nbsp; Shindig&nbsp;In&nbsp;The&nbsp;Barn,&nbsp;&nbsp; 
+				Pickle&nbsp;Up&nbsp;A&nbsp;Doodle,&nbsp;&nbsp; Pretty&nbsp;Woman.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1019.JPG" width="91" height="89"><p class="MsoNormal" style="text-align: justify; background: white">
+				<b>
+				<span lang="EN-AU" style="font-family:Tahoma;color:#999999;letter-spacing:.1pt">
+				BHCD-1019</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="background-image: none; background-repeat: repeat; background-attachment: scroll">
+				<span style="letter-spacing: 0.5pt" lang="en-au">
+				<font size="4" color="#FF00FF"><b>
+				<span style="font-family: Arial">Easy Plus</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: left; background: white">
+				<b>
+				<span lang="EN-AU" style="font-family: Arial; color: #333333; letter-spacing: .5pt">
+				<font size="1">Singing Calls with interesting, easy Plus 
+				Choreography, recorded at various functions</font></span></b></p>
+				<p class="MsoNormal" align="center" style="text-align: left; background: white">
+				<span lang="EN-AU" style="font-family: Arial; color: #333333">
+				<font size="1">Stand&nbsp;At&nbsp;Your&nbsp;Window, Under&nbsp;The&nbsp;Boardwalk, 
+				My&nbsp;Heart&nbsp;Skips&nbsp;A&nbsp;Beat, I&nbsp;Have&nbsp;To&nbsp;Say&nbsp;I&nbsp;Love&nbsp;You&nbsp;In&nbsp;A&nbsp;Song, 
+				When&nbsp;The&nbsp;Roll&nbsp;Is&nbsp;Called&nbsp;Up&nbsp;Yonder, Amarillo&nbsp;By&nbsp;Morning, 
+				All&nbsp;That&nbsp;Jazz, Everywhere&nbsp;You&nbsp;Go, New&nbsp;Moon, 
+				Sunny&nbsp;Side&nbsp;Of&nbsp;The&nbsp;Street,&nbsp;&nbsp; Lucky&nbsp;Lips,&nbsp;&nbsp; 
+				Winchester&nbsp;Cathedral,&nbsp;&nbsp; Showboat&nbsp;Gambler,&nbsp;&nbsp; Sold,&nbsp;&nbsp; and&nbsp; 
+				5&nbsp;Hoedowns.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1031.JPG" width="91" height="91"><p><b>
+				<span lang="EN-AU" style="font-size: 12.0pt; font-family: Tahoma; color: #999999; background: white">
+				BHCD-1031</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="background-image: none; background-repeat: repeat; background-attachment: scroll">
+				<span style="letter-spacing: 0.5pt" lang="en-au">
+				<font size="4" color="#0000FF"><b>
+				<span style="font-family: Arial">Easy Plus with Brian Hotchkies</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: left; background: white">
+				<b>
+				<span lang="EN-AU" style="font-family: Arial; letter-spacing: .5pt">
+				<font size="1">18 tracks featuring easy level Plus sequences - 
+				not a teaching CD</font></span></b></p>
+				<p class="MsoNormal" align="center" style="text-align: left; background: white">
+				<span lang="EN-AU" style="font-family: Arial; color: #333333">
+				<font size="1">Winchester&nbsp;Cathedral, Golden&nbsp;Memories, 
+				Before&nbsp;I&nbsp;Met&nbsp;You, Music&nbsp;Is&nbsp;My&nbsp;Woman, Good&nbsp;Friends, 
+				Last&nbsp;Farewell, Ghost&nbsp;Riders, He’ll&nbsp;Have&nbsp;To&nbsp;Go, 
+				Amarillo&nbsp;By&nbsp;Morning, Alabama&nbsp;Jubilee, New&nbsp;World&nbsp;In&nbsp;The&nbsp;Morning, 
+				Jamaica&nbsp;Farewell,&nbsp;&nbsp; Let&nbsp;Me&nbsp;Call&nbsp;You&nbsp;Sweetheart,&nbsp;&nbsp; Dream&nbsp;Lover, 
+				&nbsp;and&nbsp; 4&nbsp;Hoedowns.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1001.JPG" width="91" height="90"><p class="MsoNormal" style="background: white">
+				<b>
+				<span lang="EN-AU" style="font-family:Tahoma;
+color:#999999">BHCD-1001</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="border: medium none; padding: 0in">
+				<span style="letter-spacing: 0.5pt" lang="en-au">
+				<font size="4" color="#FF0000"><b>
+				<span style="font-family: Arial">North Haven Plus Festival #1</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: left; border: medium none; padding: 0in">
+				<b>
+				<span lang="EN-AU" style="font-family: Arial; letter-spacing: .5pt">
+				<font size="1">Recorded <i>live</i> at the Annual N/H Plus 
+				Festival, on the NSW mid North Coast, Australia</font></span></b></p>
+				<p class="MsoNormal" align="center" style="text-align: left; border: medium none; padding: 0in">
+				<span lang="EN-AU" style="font-family: Arial; color: #333333">
+				<font size="1">Song&nbsp;&amp;&nbsp;Dance&nbsp;Man, If&nbsp;You’ve&nbsp;Got&nbsp;The&nbsp;Money, 
+				California&nbsp;Here&nbsp;I&nbsp;Come, Dear&nbsp;Hearts&nbsp;&amp;&nbsp;Gentle&nbsp;People, Paddlin’&nbsp;Madeline&nbsp;Home, 
+				Puttin’&nbsp;On&nbsp;The&nbsp;Style, Bar&nbsp;Room&nbsp;Buddies, 
+				Somewhere&nbsp;Over&nbsp;The&nbsp;Rainbow, The&nbsp;Gambler, Green&nbsp;Green,&nbsp;&nbsp; 
+				Some&nbsp;Broken&nbsp;Hearts&nbsp;Never&nbsp;Mend,&nbsp;&nbsp; Hey&nbsp;Look&nbsp;Me&nbsp;Over,&nbsp;&nbsp; 
+				Alabama&nbsp;Jubilee,&nbsp;&nbsp; and&nbsp; 5&nbsp;Hoedowns.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1002.JPG" width="91" height="92"><p class="MsoNormal" style="text-align: justify; background: white">
+				<b>
+				<span lang="EN-AU" style="font-family:Tahoma;
+color:#999999">BHCD-1002</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="border: medium none; padding: 0in">
+				<span style="letter-spacing: 0.5pt" lang="en-au">
+				<font size="4" color="#0000FF"><b>
+				<span style="font-family: Arial">North Haven Plus Festival #2</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: left; border: medium none; padding: 0in">
+				<b>
+				<span lang="EN-AU" style="font-family: Arial; letter-spacing: .5pt">
+				<font size="1">Recorded <i>live</i> at the Annual N/H Plus 
+				Festival, on the NSW mid North Coast, Australia</font></span></b></p>
+				<p class="MsoNormal" align="center" style="text-align: left; border: medium none; padding: 0in">
+				<span lang="EN-AU" style="font-family: Arial; color: #333333">
+				<font size="1">Good&nbsp;Luck&nbsp;Charm, I’m&nbsp;Little&nbsp;But&nbsp;I’m&nbsp;Loud, 
+				Down&nbsp;On&nbsp;The&nbsp;Farm, Loving&nbsp;Her&nbsp;Was&nbsp;Easier, Be&nbsp;Happy, 
+				Grand&nbsp;Old&nbsp;Flag, I’m&nbsp;Gonna&nbsp;Knock&nbsp;On&nbsp;Your&nbsp;Door, 
+				You&nbsp;Call&nbsp;Everybody&nbsp;Darling, Please&nbsp;Don’t&nbsp;Talk&nbsp;About&nbsp;Me, Ballin’&nbsp;The&nbsp;Jack, 
+				Ain’t&nbsp;Misbehavin’, Raggin’&nbsp;A&nbsp;Call, England&nbsp;Swings, 
+				Hot&nbsp;Time&nbsp;In&nbsp;The&nbsp;Old&nbsp;Town&nbsp;Tonight, Side&nbsp;By&nbsp;Side,&nbsp;&nbsp; 
+				&nbsp;Davy&nbsp;Crockett,&nbsp;&nbsp; &nbsp;Coney&nbsp;Island&nbsp;Washboard&nbsp;Gal,&nbsp;&nbsp;&nbsp; and&nbsp;&nbsp; 
+				2&nbsp;Hoedowns.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1018.JPG" width="91" height="90"><p class="MsoNormal" style="text-align: justify; background: white">
+				<b>
+				<span lang="EN-AU" style="font-family:Tahoma;color:#999999;letter-spacing:.1pt">
+				BHCD-1018</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="background-image: none; background-repeat: repeat; background-attachment: scroll">
+				<span style="letter-spacing: 0.5pt" lang="en-au">
+				<font size="4" color="#CF0002"><b>
+				<span style="font-family: Arial">Interesting Plus #1</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: left; background: #F7FFF7">
+				<b>
+				<span lang="EN-AU" style="font-family: Arial; color: black; letter-spacing: .5pt">
+				<font size="1">Recorded live at the annual North Haven Plus 
+				Festival</font></span></b></p>
+				<p class="MsoNormal" align="center" style="text-align: left; background: #F7FFF7">
+				<span lang="EN-AU" style="font-family: Arial; color: #333333">
+				<font size="1">Double&nbsp;Bogie&nbsp;Blues, Sixteen&nbsp;Tons, 
+				Wizard&nbsp;On&nbsp;The&nbsp;Hill, When&nbsp;I’m&nbsp;Sixty&nbsp;Four, 
+				Heartbeat&nbsp;In&nbsp;The&nbsp;Darkness, Your&nbsp;Lips&nbsp;Tell&nbsp;Me&nbsp;No&nbsp;No, Seattle, 
+				The&nbsp;Gambler, I&nbsp;Never&nbsp;Knew, On&nbsp;&amp;&nbsp;On, Everybody&nbsp;Loves&nbsp;A&nbsp;Lover,&nbsp;&nbsp;&nbsp; 
+				The&nbsp;Devil&nbsp;Went&nbsp;Down&nbsp;To&nbsp;Georgia,&nbsp;&nbsp; and&nbsp; &nbsp;5 Hoedowns.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1010.JPG" width="91" height="90"><p>
+				<b>
+				<span lang="EN-AU" style="font-size: 12.0pt; font-family: Tahoma; color: #999999; background: white">
+				BHCD-1010</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="background-color: white; background-image: none; background-repeat: repeat; background-attachment: scroll">
+				<span lang="en-au"><font size="4"><b>
+				<span style="font-family: Arial; background-color: #FFFF00">A1 
+				Advanced #1</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: left; background: white">
+				<b><span lang="EN-AU" style="font-family: Arial"><font size="1">
+				First in a series:</font><span style="letter-spacing:.7pt"><font size="1">&nbsp; 
+				17 interesting tracks featuring figures from the&nbsp; <i>Advanced 1</i>&nbsp; 
+				program</font></span></span></b></p>
+				<p class="MsoNormal" align="center" style="text-align: left; background: white">
+				<span lang="EN-AU" style="font-family: Arial; color: #333333">
+				<font size="1">Boogie&nbsp;Woogie&nbsp;Bugle&nbsp;Boy, World&nbsp;Of&nbsp;Our&nbsp;Own, 
+				I&nbsp;Don’t&nbsp;Know&nbsp;Why, You&nbsp;Are&nbsp;My&nbsp;Sunshine, Pretty&nbsp;Baby, 
+				Among&nbsp;My&nbsp;Souvenirs, Drinking&nbsp;Champagne, 
+				Real&nbsp;Good&nbsp;Feel&nbsp;Good&nbsp;Song, Light&nbsp;The&nbsp;Candles&nbsp;Around&nbsp;The&nbsp;World, 
+				What’s&nbsp;Forever&nbsp;For,&nbsp;&nbsp; and&nbsp;&nbsp; 7&nbsp;Hoedowns.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1022.JPG" width="91" height="91"><p>
+				<b>
+				<span style="font-size: 12.0pt; font-family: Tahoma; color: #999999; background: white">
+				BHCD-1022</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="text-align: center; background: white">
+				<span lang="en-au"><font size="4"><b>
+				<span style="font-family: Arial; background-color: #FF0000">A1 
+				Advanced #2</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: center; background: white">
+				<b><span style="font-family: Arial; letter-spacing: .5pt">
+				<font size="1">Second in a series:&nbsp;&nbsp; 17 great tracks featuring 
+				figures from the&nbsp; <i>Advanced 1</i>&nbsp; program</font></span></b></p>
+				<p class="MsoNormal" style="text-align: justify; background: white">
+				<span style="font-family: Arial; color: #333333"><font size="1">
+				Road&nbsp;To&nbsp;Gundagai, Do&nbsp;Run&nbsp;Run, Someday&nbsp;Soon, On&nbsp;My&nbsp;Mind, 
+				Alabama&nbsp;Jubilee, Four&nbsp;In&nbsp;The&nbsp;Morning, We&nbsp;Got&nbsp;Love,&nbsp;&nbsp; 
+				Just&nbsp;Enough&nbsp;To&nbsp;Keep&nbsp;Me&nbsp;Hanging&nbsp;On,&nbsp;&nbsp; Alberta&nbsp;Bound,&nbsp;&nbsp; and&nbsp;&nbsp;&nbsp; 
+				8&nbsp;Hoedowns.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="bh1030.JPG" width="91" height="91"><p>
+				<b>
+				<span style="font-size: 12.0pt; font-family: Tahoma; color: #999999; background: white">
+				BHCD-1030</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="text-align: center; background: white">
+				<span lang="en-au"><font size="4"><b>
+				<span style="font-family: Arial; background-color: #00FF00">A1 
+				Advanced #3</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: center; background: white">
+				<b><span style="font-family: Arial; letter-spacing: .5pt">
+				<font size="1">Third in a series:&nbsp;&nbsp; 18 great tracks featuring 
+				figures from the&nbsp; <i>Advanced 1</i>&nbsp; program</font></span></b></p>
+				<p class="MsoNormal" style="text-align: justify; background: white">
+				<span style="font-family: Arial; color: #333333"><font size="1">
+				Shine&nbsp;On&nbsp;Harvest&nbsp;Moon, If&nbsp;You’re&nbsp;Irish, Amapola, 
+				Put&nbsp;Your&nbsp;Hand&nbsp;In&nbsp;The&nbsp;Hand, Unicorn, Row&nbsp;Row&nbsp;Row, By&nbsp;The&nbsp;Sea,&nbsp;&nbsp; 
+				Be&nbsp;Happy,&nbsp;&nbsp; Yellow&nbsp;Polka&#8209;Dot&nbsp;Bikini,&nbsp;&nbsp; Let’s&nbsp;Twist&nbsp;Again,&nbsp;&nbsp; 
+				and&nbsp;&nbsp;&nbsp; 8&nbsp;Hoedowns.</font></span></p>
+&nbsp;</td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="ln101.JPG" width="91" height="91"><p class="MsoNormal" style="text-align: justify; background: white">
+				<b>
+				<span style="font-family: Tahoma; color: #999999; letter-spacing: .1pt">
+				LNCD-101</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="text-align: center; background-image: none; background-repeat: repeat; background-attachment: scroll">
+				<span style="letter-spacing: 1pt">
+				<font size="4" color="#F99B00"><b>
+				<span style="font-family: Arial">Basic Clogging #1</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: center; background: white">
+				<b><span style="font-family: Arial; letter-spacing: 1.0pt">
+				<font size="1">23 Easy practice routines of Clogging steps</font></span></b><span style="font-family: Arial; letter-spacing: 1.0pt"><font size="1"> 
+				&nbsp;</font></span><span style="font-family: Arial; letter-spacing: .5pt"><font size="1">(previously 
+				available on cassette)</font><b><font size="1">.</font></b></span></p>
+				<p class="MsoNormal" style="text-align: justify; background: white">
+				<span style="font-family: Arial; color: #333333"><font size="1">
+				Ace&nbsp;In&nbsp;The&nbsp;Hole, Hello&nbsp;Trouble, Little&nbsp;Black&nbsp;Book, Yakety&nbsp;Sax, 
+				Nine&nbsp;To&nbsp;Five, Oh&nbsp;Me&nbsp;Oh&nbsp;My&nbsp;Sweet&nbsp;Baby, Down&nbsp;South, 
+				Old&nbsp;Time&nbsp;Rock&nbsp;&amp;&nbsp;Roll, Rainbow&nbsp;Stew, You’re&nbsp;The&nbsp;one&nbsp;That&nbsp;I&nbsp;Want, 
+				Wear&nbsp;My&nbsp;Ring, This&nbsp;Is&nbsp;It, Highway&nbsp;40&nbsp;Blues, Gonna&nbsp;Take&nbsp;A&nbsp;Lot&nbsp;Of&nbsp;River, 
+				Keep&nbsp;It&nbsp;In&nbsp;The&nbsp;Middle&nbsp;Of&nbsp;The&nbsp;Road, My&nbsp;Kind&nbsp;Of&nbsp;Country, Teton&nbsp;Mountain&nbsp;Stomp, 
+				Chasin’&nbsp;That&nbsp;Neon&nbsp;Rainbow, Smokin’&nbsp;The&nbsp;Hive, Neutron&nbsp;Dance, 
+				Girl’s&nbsp;Night&nbsp;Out, San&nbsp;Antonio&nbsp;Stroll,&nbsp;&nbsp;&nbsp; 
+				Real&nbsp;Good&nbsp;Feel&nbsp;Good&nbsp;Song.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="ln108.JPG" width="91" height="91"><p class="MsoNormal" style="text-align: justify; background: white">
+				<b>
+				<span style="font-family: Tahoma; color: #999999; letter-spacing: .1pt">
+				LNCD-108</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="text-align: center; background: white">
+				<span style="letter-spacing: 1pt">
+				<font size="4" color="#FF00FF"><b>
+				<span style="font-family: Arial">Basic Clogging #2</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: center; background: white">
+				<b><span style="font-family: Arial; letter-spacing: 1.0pt">
+				<font size="1">18 Easy practice routines of Clogging steps + a 
+				bonus <i>blooper</i>.</font></span></b></p>
+				<p class="MsoNormal" style="text-align: justify; background: white">
+				<span style="font-family: Arial"><font size="1">Diggy&nbsp;Diggy&nbsp;Lo, 
+				Mississippi&nbsp;Squirrel&nbsp;Revival, Watcha&nbsp;Gonna&nbsp;Do&nbsp;With&nbsp;A&nbsp;Cowboy, 
+				Chain&nbsp;Reaction, Country&nbsp;Girl, Feelin’&nbsp;The&nbsp;Feeling, 
+				I&nbsp;Could&nbsp;Love&nbsp;A&nbsp;Man&nbsp;Like&nbsp;That, God’s&nbsp;Been&nbsp;Good&nbsp;To&nbsp;Me, 
+				Bring&nbsp;It&nbsp;On&nbsp;Down&nbsp;To&nbsp;My&nbsp;House, Hello&nbsp;Mary&nbsp;Lou, Pee&nbsp;Wee&nbsp;&amp;&nbsp;Fern, 
+				Since&nbsp;I’ve&nbsp;Gone, Super&nbsp;Trouper, Hillbilly&nbsp;Picking, 
+				Blue&nbsp;Heaven&nbsp;Whistler, Love&nbsp;Me&nbsp;Honey&nbsp;Do,&nbsp;&nbsp; &nbsp;Bring&nbsp;It&nbsp;All&nbsp;Back,&nbsp;&nbsp;&nbsp; 
+				Sweet&nbsp;Gypsy&nbsp;Rose,&nbsp;&nbsp; +&nbsp;&nbsp; (blooper) Going&nbsp;Through&nbsp;The&nbsp;“D”.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="ln103.JPG" width="91" height="90"><p class="MsoNormal" style="text-align: justify; background: white">
+				<b>
+				<span style="font-family: Tahoma; color: #999999; letter-spacing: .1pt">
+				LNCD-103</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="text-align: center; background-image: none; background-repeat: repeat; background-attachment: scroll">
+				<span style="letter-spacing: 1pt">
+				<font size="4" color="#F99B00"><b>
+				<span style="font-family: Arial">Dances Choreographed by Leanne 
+				and Jason #1</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: center; background: white">
+				<b>
+				<span style="font-family: Arial; color: #333333; letter-spacing: 1.0pt">
+				<font size="1">19 Dances choreographed by Leanne &amp; Jason, and 
+				cued by Leanne.</font></span></b></p>
+				<p class="MsoNormal" style="text-align: justify; background: white">
+				<span style="font-family: Arial; color: #333333"><font size="1">
+				All&nbsp;That&nbsp;Jazz, As&nbsp;Days&nbsp;Go&nbsp;By, A&nbsp;Simple&nbsp;Life, Better&nbsp;Life, 
+				Big&nbsp;Time, Cotton&nbsp;Eyed&nbsp;Joe, Daddy’s&nbsp;Money, Dearly&nbsp;Beloved, 
+				I’d&nbsp;Like&nbsp;To&nbsp;See&nbsp;You&nbsp;Try, I&nbsp;Wanta&nbsp;Do&nbsp;It&nbsp;All,&nbsp; Jambalaya, 
+				Live&nbsp;Laugh&nbsp;Love, Moving&nbsp;On&nbsp;Up, Show&nbsp;Me&nbsp;A&nbsp;Woman,&nbsp; 
+				Somebody&nbsp;Like&nbsp;You,&nbsp; Son&nbsp;Of&nbsp;A&nbsp;Gun,&nbsp; Walking&nbsp;To&nbsp;Jerusalem,&nbsp; 
+				We’re&nbsp;So&nbsp;Good&nbsp;Together.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="ln104.JPG" width="91" height="90"><p class="MsoNormal" style="text-align: justify; background: white">
+				<b>
+				<span style="font-family: Tahoma; color: #999999; letter-spacing: .1pt">
+				LNCD-104</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="text-align: center; background-image: none; background-repeat: repeat; background-attachment: scroll">
+				<span style="letter-spacing: 1pt">
+				<font size="4" color="#333333"><b>
+				<span style="font-family: Arial; background-color: #FFFFFF">
+				Advanced Clogging #1</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: center; background: white">
+				<b>
+				<span style="font-family: Arial; color: #333333; letter-spacing: 1.0pt">
+				<font size="1">22 Clogging dances for experienced dancers.</font></span></b></p>
+				<p class="MsoNormal" style="text-align: justify; background: white">
+				<span style="font-family: Arial; color: #333333"><font size="1">
+				Angel, Blue&nbsp;Trail&nbsp;Of&nbsp;Sorrow, Cronin’s&nbsp;Hornpipe, Don’t&nbsp;Be&nbsp;Stupid, 
+				Duelling&nbsp;Violins, Happy&nbsp;Go&nbsp;Lucky, He&nbsp;Don’t&nbsp;Love&nbsp;You, 
+				Hey&nbsp;Lonesome, Honky&nbsp;Tonk&nbsp;Heroes, Hot&nbsp;Corn&nbsp;Cold&nbsp;Corn, If&nbsp;I&nbsp;Could, 
+				Irish&nbsp;Stew, Juke&nbsp;Box&nbsp;Blues, Nosebleed&nbsp;Section, On&nbsp;Our&nbsp;Selection, 
+				On&nbsp;The&nbsp;Borderline, Somebody&nbsp;Like&nbsp;You, Stomp, Redneck&nbsp;Woman,&nbsp;&nbsp;&nbsp; 
+				Semi&#8209;Charmed&nbsp;Life,&nbsp;&nbsp;&nbsp; Some&nbsp;Days&nbsp;You&nbsp;Gotta&nbsp;Dance,&nbsp;&nbsp;&nbsp; 
+				Truly&nbsp;Madly&nbsp;Deeply.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="ln102.JPG" width="91" height="90"><p class="MsoNormal" style="text-align: justify; background: white">
+				<b>
+				<span style="font-family: Tahoma; color: #999999; letter-spacing: .1pt">
+				LNCD-102</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="text-align: center; background-image: none; background-repeat: repeat; background-attachment: scroll">
+				<span style="letter-spacing: 1pt">
+				<font size="4" color="#333333"><b>
+				<span style="font-family: Arial; background-color: #FFFF00">
+				Popular Clogging #1</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: center; background: white">
+				<b>
+				<span style="font-family: Arial; color: #333333; letter-spacing: 1.0pt">
+				<font size="1">20 popular Clogging dances </font></span></b>
+				<span style="font-family: Arial; color: #333333; letter-spacing: .5pt">
+				<font size="1">(previously available on cassette)</font><b><font size="1">.</font></b></span><span style="font-family: Arial; color: #333333"><font size="1">&nbsp;</font></span></p>
+				<p class="MsoNormal" style="text-align: justify; background: white">
+				<span style="font-family: Arial; color: #333333"><font size="1">
+				Should’ve&nbsp;Asked&nbsp;Her&nbsp;Faster, Battle&nbsp;Of&nbsp;New&nbsp;Orleans, 
+				Forever&nbsp;&amp;&nbsp;Ever&nbsp;Amen, Mister&nbsp;Bassman, Forever&nbsp;Blue, I’d&nbsp;Go&nbsp;Crazy, 
+				I&nbsp;Had&nbsp;A&nbsp;Beautiful&nbsp;Time, Bad&nbsp;Moon&nbsp;Rising, Up&nbsp;To&nbsp;My&nbsp;Ears&nbsp;In&nbsp;Tears, 
+				Swing&nbsp;The&nbsp;Mood, You&nbsp;Never&nbsp;Know&nbsp;Just&nbsp;How&nbsp;Good, 
+				Back&nbsp;Down&nbsp;In&nbsp;Louisiana, All&nbsp;Night&nbsp;Long, Except&nbsp;For&nbsp;Monday, 
+				Chattahoochie, Callin’&nbsp;Baton&nbsp;Rouge,&nbsp; &nbsp;Let’s&nbsp;Go&nbsp;To&nbsp;Vegas,&nbsp; 
+				&nbsp;Ooh&nbsp;Ah, &nbsp;&nbsp;Cry&nbsp;Of&nbsp;The&nbsp;Celts,&nbsp;&nbsp; If&nbsp;You’re&nbsp;Not&nbsp;In&nbsp;It&nbsp;For&nbsp;The&nbsp;Love.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="ln105.JPG" width="91" height="91"><p>
+				<b>
+				<span style="font-size: 12.0pt; font-family: Tahoma; color: #999999; letter-spacing: .1pt; background: white">
+				LNCD-105</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="text-align: center; background: white">
+				<span style="letter-spacing: 1pt">
+				<font size="4" color="#0000FF"><b>
+				<span style="font-family: Arial; background-color: #FFFFFF">
+				Popular Clogging #2</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: center; background: white">
+				<b>
+				<span style="font-family: Arial; color: #333333; letter-spacing: 1.0pt">
+				<font size="1">19 popular Clogging dances.</font></span></b></p>
+				<p class="MsoNormal" style="text-align: justify; background: white">
+				<span style="font-family: Arial; color: #333333"><font size="1">
+				All&nbsp;Star, A&nbsp;Simple&nbsp;Life, Big&nbsp;Jimmy&nbsp;&amp;&nbsp;Felicidad, Cherokee&nbsp;Boogie, 
+				Coco&nbsp;Jamboo, Fly, He&nbsp;Drinks&nbsp;Tequila, I&nbsp;Walk&nbsp;The&nbsp;Line, 
+				If&nbsp;I&nbsp;Could, Laissez&nbsp;Faire, New&nbsp;York&nbsp;Gal, Old&nbsp;Time&nbsp;Fiddle, 
+				One&nbsp;Thin&nbsp;Dime, Rosine, Since&nbsp;The&nbsp;Bushland&nbsp;Boogie,&nbsp; 
+				&nbsp;Speak&nbsp;To&nbsp;The&nbsp;Sky,&nbsp; &nbsp;The&nbsp;Swing,&nbsp; &nbsp;Thibodaux, 
+				&nbsp;&nbsp;Turn&nbsp;Your&nbsp;Radio&nbsp;On.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="ln106.JPG" width="91" height="90"><p>
+				<b>
+				<span style="font-size: 12.0pt; font-family: Tahoma; color: #999999; letter-spacing: .1pt; background: white">
+				LNCD-106</span></b><span style="font-size: 12.0pt; font-family: Vladimir Script">
+				</span></td>
+				<td>
+				<p align="center"><span style="letter-spacing: 1pt">
+				<font size="4" color="#00FF00"><b>
+				<span style="font-family: Arial; background-color: #FFFFFF">
+				Popular Clogging #3</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: center; background: white">
+				<b><span style="font-family: Arial; letter-spacing: 1.0pt">
+				<font size="1">20 popular Clogging dances.</font></span></b></p>
+				<p class="MsoNormal" style="text-align: justify; background: white">
+				<span style="font-family: Arial; color: #333333"><font size="1">
+				Andy&nbsp;Where’s&nbsp;Your&nbsp;Kilt, Bombshell&nbsp;Stomp, Boobyalla, Boot&nbsp;Scootin’&nbsp;Boogie, 
+				Coalmine, Didya&nbsp;Ever, Down&nbsp;At&nbsp;The&nbsp;Twist&nbsp;&amp;&nbsp;Shout, 
+				Grandfather’s&nbsp;Clock, Hold&nbsp;To&nbsp;A&nbsp;Dream, I&nbsp;Don’t&nbsp;Feel&nbsp;Like&nbsp;Dancing, 
+				Jailhouse&nbsp;Rock, John&nbsp;&amp;&nbsp;Mary, Jose&nbsp;Cuervo, Marry&nbsp;Me, 
+				Old&nbsp;Hickory&nbsp;Lake, Sold, Some&nbsp;Beach, Television&nbsp;Breakdown, Up, 
+				You&nbsp;Can’t&nbsp;Hurry&nbsp;Love.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="ln109.JPG" width="91" height="91"><p class="MsoNormal" style="text-align: justify; background: white">
+				<b>
+				<span style="font-family: Tahoma; color: #999999; letter-spacing: .1pt">
+				LNCD-109</span></b></td>
+				<td>
+				<p align="center"><span style="letter-spacing: 1pt">
+				<font size="4" color="#800000"><b>
+				<span style="font-family: Arial; background-color: #FFFFFF">
+				Popular Clogging #4</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: center; background: white">
+				<b><span style="font-family: Arial; letter-spacing: 1.0pt">
+				<font size="1">18 popular Clogging dances.</font></span></b></p>
+				<p class="MsoNormal" style="text-align: justify; background: white">
+				<span style="font-family: Arial"><font size="1">Amigo, 
+				Black&nbsp;Horse&nbsp;&amp;&nbsp;The&nbsp;Cherry&nbsp;Tree, Corvette&nbsp;Song, Fais&nbsp;Do&nbsp;Do, 
+				Grandpa’s&nbsp;Yodel, Holiday, Jackson, Homespun&nbsp;Love, In&nbsp;The&nbsp;Navy, 
+				Jeans&nbsp;On, Long&nbsp;Time&nbsp;Gone, Rockin’&nbsp;Over, Songbird, 
+				Stop&nbsp;It,&nbsp;I&nbsp;Like&nbsp;It, When&nbsp;In&nbsp;Texas,&nbsp;&nbsp;&nbsp; Swing&nbsp;Baby,&nbsp;&nbsp;&nbsp; 
+				The&nbsp;Sign,&nbsp;&nbsp;&nbsp; X’s&nbsp;&amp;&nbsp;O’s.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="ln107.JPG" width="91" height="91"><p class="MsoNormal" style="text-align: justify; background: white">
+				<b>
+				<span style="font-family: Tahoma; color: #999999; letter-spacing: .1pt">
+				LNCD-107</span></b></td>
+				<td>
+				<p align="center"><font color="#FFFF66" size="4">
+				<span style="background-color: #996633">Under Production</span></font></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="js4001.JPG" width="91" height="91"><p class="MsoNormal" style="text-align: justify; background: white">
+				<b>
+				<span style="font-family: Tahoma; color: #999999; letter-spacing: .1pt">
+				RDJS-4001</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="text-align: center; background-image: none; background-repeat: repeat; background-attachment: scroll">
+				<span style="letter-spacing: 1pt">
+				<font size="4" color="#008000"><b>
+				<span style="font-family: Arial">Easy Level Rounds Vol. 1</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: center; background: white">
+				<b><span style="font-family: Arial; letter-spacing: 1.0pt">
+				<font size="1">32 Phase II Round Dances </font></span></b>
+				<span style="font-family: Arial; letter-spacing: .5pt">
+				<font size="1">(previously available on cassette)</font></span></p>
+				<p class="MsoNormal" style="text-align: justify; background: white">
+				<span style="font-family: Arial; color: #333333"><font size="1">
+				Fraulein, Waltz&nbsp;With&nbsp;Me, Lover’s&nbsp;Song, Tips&nbsp;Of&nbsp;My&nbsp;Fingers, 
+				Easy&nbsp;Strolling, Sleepy&nbsp;Time&nbsp;Gal, Mission&nbsp;Bell&nbsp;Waltz, 
+				Baby&nbsp;O’&nbsp;Mine, Could&nbsp;I&nbsp;Have&nbsp;This&nbsp;Dance, Buffy, Mockingbird&nbsp;Hill, 
+				Ohio&nbsp;Twostep, Till’&nbsp;Somebody&nbsp;Loves&nbsp;You, Sweet&nbsp;Lips, Calahan, 
+				Diane, It&nbsp;Had&nbsp;To&nbsp;Be&nbsp;You, Dreams&nbsp;Come&nbsp;True, Kewpie&nbsp;Doll, 
+				Far&nbsp;Away&nbsp;Places, Jacalyn’s&nbsp;Waltz, Napoli&nbsp;Theme, 
+				Sweet&nbsp;Gypsy&nbsp;Rose, Mexicali&nbsp;Rose, Miss&nbsp;Frenchy&nbsp;Brown, 
+				Take&nbsp;One&nbsp;Step, Pali&nbsp;Breezes,&nbsp; &nbsp;&nbsp;Salty&nbsp;Twostep, 
+				&nbsp;&nbsp;&nbsp;Sarasota&nbsp;Waltz, &nbsp;&nbsp;&nbsp;Sam’s&nbsp;Song,&nbsp; &nbsp;&nbsp;Sandy’s&nbsp;Waltz, 
+				&nbsp;&nbsp;&nbsp;Strutters&nbsp;Ball.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="js4002.JPG" width="91" height="91"><p class="MsoNormal" style="text-align: justify; background: white">
+				<b>
+				<span style="font-family: Tahoma; color: #999999; letter-spacing: .1pt">
+				RDJS-4002</span></b></td>
+				<td>
+				<p align="center"><span style="letter-spacing: 1pt">
+				<font size="4" color="#008000"><b>
+				<span style="font-family: Arial">Easy Level Rounds Vol. 2</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: center; background: white">
+				<b><span style="font-family: Arial; letter-spacing: 1.0pt">
+				<font size="1">32 Phase II Round Dances </font></span></b>
+				<span style="font-family: Arial; letter-spacing: .5pt">
+				<font size="1">(previously available on cassette)</font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: left; background: white">
+				<span style="font-family: Arial; color: #333333"><font size="1">
+				First&nbsp;Kiss, Street&nbsp;Fair, Golden&nbsp;California&nbsp;Waltz, Silver&nbsp;Dollar, 
+				Whoop&nbsp;De&nbsp;Do&nbsp;Polka, Fooled&nbsp;Again, Four&nbsp;Walls, Dancing&nbsp;Shadows, 
+				Baby&nbsp;Cha, Are&nbsp;You&nbsp;Lonesome&nbsp;Tonight, Blue&nbsp;Heaven&nbsp;Whistler, 
+				A&nbsp;Song&nbsp;In&nbsp;The&nbsp;Night, Walk&nbsp;Right&nbsp;Back, All&nbsp;Night, Rumba&nbsp;Pete, 
+				Reunited, Rock&nbsp;Around&nbsp;The&nbsp;Clock, Sunday&nbsp;Afternoon, 
+				The&nbsp;Boy&nbsp;Next&nbsp;Door, Vien&nbsp;Vien, Small&nbsp;Town, Piano&nbsp;Roll&nbsp;Waltz, 
+				In&nbsp;Old&nbsp;Cape&nbsp;Cod, Shadow&nbsp;Of&nbsp;Your&nbsp;Smile, Neapolitan&nbsp;Waltz, 
+				He’s&nbsp;Making&nbsp;Eyes&nbsp;At&nbsp;Me, Edith’s&nbsp;Waltz, Pink&nbsp;Shoe&nbsp;Laces, 
+				Flip&nbsp;Side, A&nbsp;Kind&nbsp;Of&nbsp;Hush, The&nbsp;Lonely&nbsp;Goatherd,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+				A&nbsp;Continental&nbsp;Goodnight.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				<img border="0" src="js4003.JPG" width="91" height="91"><p class="MsoNormal" style="text-align: justify; background: white">
+				<b>
+				<span style="font-family: Tahoma; color: #999999; letter-spacing: .1pt">
+				RDJS-4003</span></b></td>
+				<td>
+				<p align="center"><span style="letter-spacing: 1pt">
+				<font size="4" color="#008000"><b>
+				<span style="font-family: Arial; background-color: #FFFF00">
+				Under Production</span></b></font></span></p>
+				<p>&nbsp;</td>
+				<td width="4">$15.00</td>
+			</tr>
+			<tr>
+				<td width="45">&nbsp;</td>
+				<td width="127">
+				
+				<img border="0" src="js4004.JPG" width="91" height="90"><p class="MsoNormal" style="text-align: justify; background: white">
+				<b>
+				<span style="font-family: Tahoma; color: #999999; letter-spacing: .1pt">
+				RDJS-4004</span></b></td>
+				<td>
+				<p class="MsoNormal" align="center" style="text-align: center; background-image: none; background-repeat: repeat; background-attachment: scroll">
+				<span style="letter-spacing: 1pt">
+				<font size="4" color="#663300"><b>
+				<span style="font-family: Arial">Popular Rounds Vol. 1</span></b></font></span></p>
+				<p class="MsoNormal" align="center" style="text-align: center; background: white">
+				<b><span style="font-family: Arial; letter-spacing: 1.0pt">
+				<font size="1">30 Phase II+ Round Dances </font></span></b>
+				<span style="font-family: Arial; letter-spacing: .5pt">
+				<font size="1">(previously available on cassette)</font></span></p>
+				<p class="MsoNormal" style="text-align: justify; background: white">
+				<span style="font-family: Arial"><font size="1">
+				You’ll&nbsp;Never&nbsp;Know, Cha&nbsp;Cha&nbsp;Charleston, 
+				Blue&nbsp;Eyes&nbsp;Don’t&nbsp;Make&nbsp;An&nbsp;Angel, Small&nbsp;World, A&nbsp;Million&nbsp;Tomorrows, 
+				If&nbsp;The&nbsp;Devil&nbsp;Danced, Birth&nbsp;Of&nbsp;The&nbsp;Blues, Song&nbsp;Of&nbsp;Love, 
+				Roses&nbsp;For&nbsp;Elizabeth, Primrose&nbsp;Lane, Charade&nbsp;75, 
+				Stars&nbsp;&amp;&nbsp;Steel&nbsp;Guitars, Papa&nbsp;Loves&nbsp;Mambo, Patricia, Rumba&nbsp;Marie, 
+				Games&nbsp;That&nbsp;Lovers&nbsp;Play, Now&nbsp;&amp;&nbsp;Then, Mannita&nbsp;Waltz, Let’s&nbsp;Linger, 
+				Dreamland, My&nbsp;Blue&nbsp;Heaven, Kon&nbsp;Tiki, Garden&nbsp;Of&nbsp;My&nbsp;Dreams, 
+				Devil&nbsp;Woman, Happy&nbsp;Sounds,&nbsp;&nbsp; Connecticut&nbsp;Waltz,&nbsp;&nbsp; 
+				It&nbsp;All&nbsp;Depends&nbsp;On&nbsp;You,&nbsp;&nbsp; Feliz&nbsp;Navidad,&nbsp;&nbsp; Don&nbsp;Valero,&nbsp;&nbsp; 
+				A&nbsp;Beautiful&nbsp;Time.</font></span></td>
+				<td width="4">$15.00</td>
+			</tr>
+			</table>
+			<p align="center">Square Dancing CD's with calls by <u>Brian Hotchkies</u></p>
+		<p align="center">Clogging CD's with 
+		cues by <u>Leanne Nicholson</u></p>
+		<p align="center">Round Dancing CD's with cues by <u>John Stallard</u></p>
+		<p align="center">$15.00 each</p>
+		<p align="center">To order any of these CD's, please send me an
+		<a href="mailto:bbarh@hotmail.com?subject=CD orders">email</a> with the 
+		serial numbers of the CDs you wish to purchase (eg BHCD-1004, LNCD-103), 
+		your full name, address and contact phone number.</p>
+		<p align="center">&nbsp;<a href="#Top">Go to top</a></td>
+	</tr>
+</table>
+
+</body>
+
+</html>

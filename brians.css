@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#contacts {
+    width: 968px;
+    margin: 0 auto;
+    padding-left: 168px;
+    padding-right: 10px;
+    overflow: hidden;
+}
+
